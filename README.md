@@ -1,8 +1,8 @@
 # _Clonación de la Página Bonsai and Pricing_
 
-El presente ejercicio que consiste en la copia de la página original _https://www.hellobonsai.com/pricing_ en su interfaz, este forma parte de la guía de ejercicios para fronted _https://www.frontendpractice.com/_.
+_El presente ejercicio que consiste en la copia de la página original https://www.hellobonsai.com/pricing en su interfaz, este forma parte de la guía de ejercicios para fronted https://www.frontendpractice.com/_.
 
-La página aun está en etapa de creación.
+_La página aun está en etapa de creación._
 
 ![image-bonsai-and.pricing-1](assets/image-bonsai-and-pricing-1.JPG "image-bonsai-and.pricing-1")
 
